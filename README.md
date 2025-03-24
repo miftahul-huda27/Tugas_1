@@ -6,7 +6,7 @@ composer  create-project --prefer-dist laravel/laravel myapp
 
 
 
-Mengkonfigurasikan database mysql dan memulai aplikasi laravel
+Mengkonfigurasikan database mysql pada file .env dan memulai aplikasi laravel
 
 php artisan serve
 
