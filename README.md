@@ -6,6 +6,7 @@ composer  create-project --prefer-dist laravel/laravel myapp
 
 
 Mengkonfigurasikan database mysql dan memulai aplikasi laravel
+
 php artisan serve
 
 ![Jepretan layar_20250324_221834](https://github.com/user-attachments/assets/9a24815e-10a9-43bd-a068-461121d54358)
